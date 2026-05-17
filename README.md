@@ -1,2 +1,2 @@
-This is a website created following the html coding assignment as part of the Odin Project foundations course.
-This readme file will be completed at the project's completion.
+This is a website created as the html coding assignment as part of the Odin Project foundations course.
+It has a home page and three linked pages. It demonstrates usage of links, images, headings, ordered and unordered lists, as well as other html tags.
